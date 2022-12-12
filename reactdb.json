@@ -1,0 +1,96 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "isAdmin": false,
+      "isVendor": true,
+      "age": 36,
+      "name": "Teka Hagos",
+      "gender": "male",
+      "company": "CEDWARD",
+      "email": "teka@gmail.com",
+      "phone": "+1 (890) 543-2508",
+      "password": "1111",
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
+    },
+    {
+      "id": "2",
+      "image": "require('./images/dan.jpg')",
+      "isAdmin": true,
+      "isVendor": false,
+      "age": 24,
+      "name": "Kelali Hadis",
+      "gender": "Male",
+      "company": "EMERGENT",
+      "email": "kelali@gmail.com",
+      "password": "2222",
+      "phone": "+1 (831) 564-2190",
+      "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
+    },
+    {
+      "id": "3",
+      "isAdmin": false,
+      "isVendor": false,
+      "age": 30,
+      "name": "Alex Wang",
+      "gender": "male",
+      "company": "ORGANICA",
+      "email": "alex@gmail.com",
+      "password": "3333",
+      "phone": "+1 (882) 441-3367",
+      "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Jpan honda CL7 Bearing",
+      "image": "https://picsum.photos/id//0/60",
+      "production": "New product",
+      "price": "1500",
+      "quantity": "0",
+      "catagory": "Tyres and Wheels",
+      "brand": "Honda"
+    },
+    {
+      "id": 2,
+      "name": "Full Hd LCD",
+      "image": "https://picsum.photos/id//1001/60",
+      "production": "Old product",
+      "price": "3300",
+      "quantity": "5",
+      "catagory": "Tyres and Wheels",
+      "brand": "Honda"
+    },
+    {
+      "id": 3,
+      "name": "Rear LH Disc Breaker",
+      "image": "https://picsum.photos/id//1011/60",
+      "production": "New product",
+      "price": "8000",
+      "quantity": "8",
+      "catagory": "Brakes",
+      "brand": "BMW"
+    },
+    {
+      "id": 4,
+      "name": "Jpan honda CL7 Bearing",
+      "image": "https://picsum.photos/id//1013/60",
+      "production": "New product",
+      "price": "1500",
+      "quantity": "10",
+      "catagory": "Tyres and Wheels",
+      "brand": "Honda"
+    },
+    {
+      "id": 5,
+      "name": "ear LH Disc Breaker",
+      "image": "https://picsum.photos/id//1018/60",
+      "production": "Old product",
+      "price": "5000",
+      "quantity": "2",
+      "catagory": "Brakes",
+      "brand": "Ferari"
+    }
+  ]
+}
